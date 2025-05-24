@@ -22,8 +22,13 @@
     Choose between **small, medium, large**, **grams**, or **cups** and instantly adjust the nutrient data.
 
 ---
+## 🧠 How It Works
 
+* **🗃️ USDA Integration**: Uses USDA's FoodData Central API for real nutrition data.
+* **🧠 Ollama NLP Engine**: Leverages Ollama AI to parse nutrition info and answer user questions.
+* **📦 Streamlit Frontend**: Provides a responsive, interactive UI for easy analysis.
 ## 💻 How to Run Locally
+---
 
 ```bash
 # 1. Clone the repository
@@ -40,14 +45,6 @@ pip install -r requirements.txt
 # 4. Run the Streamlit app
 streamlit run app.py
 ```
-
----
-
-## 🧠 How It Works
-
-* **🗃️ USDA Integration**: Uses USDA's FoodData Central API for real nutrition data.
-* **🧠 Ollama NLP Engine**: Leverages Ollama AI to parse nutrition info and answer user questions.
-* **📦 Streamlit Frontend**: Provides a responsive, interactive UI for easy analysis.
 
 ---
 
@@ -71,7 +68,7 @@ streamlit run app.py
 * **Backend**: Python, FastAPI 
 * **Data Source**: USDA FoodData Central, Ollama
 * **Visualization**: Matplotlib, Pandas
-* **Deployment**: Streamli
+* **Deployment**: Streamlit
 ---
 
 ## 📦 Folder Structure
