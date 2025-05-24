@@ -1,0 +1,126 @@
+2025-05-23 16:27:29.893 | ERROR    | src.ai_model:query_nutrition_knowledge:28 - Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-05-23 16:28:32.157 | INFO     | src.ai_model:get_nutrition_info:66 - Fetched nutrition data for banana
+2025-05-23 16:28:58.270 | ERROR    | src.ai_model:query_nutrition_knowledge:28 - Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-05-23 16:29:09.614 | INFO     | src.ai_model:get_nutrition_info:66 - Fetched nutrition data for banana
+2025-05-23 16:29:54.045 | ERROR    | src.ai_model:query_nutrition_knowledge:28 - Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-05-23 16:29:56.844 | ERROR    | src.ai_model:query_nutrition_knowledge:28 - Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-05-23 16:30:35.832 | ERROR    | src.ai_model:query_nutrition_knowledge:28 - Gemini API error: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-05-23 16:35:20.537 | INFO     | src.ai_model:get_nutrition_info:66 - Fetched nutrition data for banana
+2025-05-23 16:36:40.691 | INFO     | src.ai_model:get_nutrition_info:62 - Searching USDA for: banana
+2025-05-23 16:36:42.934 | INFO     | src.ai_model:get_nutrition_info:79 - Fetching detailed nutrition info for FDC ID: 2012128 (banana)
+2025-05-23 16:36:44.997 | INFO     | src.ai_model:get_nutrition_info:98 - Successfully fetched and formatted nutrition data for banana
+2025-05-23 16:39:09.742 | INFO     | src.ai_model:get_nutrition_info:62 - Searching USDA for: banana
+2025-05-23 16:39:11.952 | INFO     | src.ai_model:get_nutrition_info:79 - Fetching detailed nutrition info for FDC ID: 2012128 (banana)
+2025-05-23 16:39:14.100 | INFO     | src.ai_model:get_nutrition_info:98 - Successfully fetched and formatted nutrition data for banana
+2025-05-23 16:50:27.120 | INFO     | src.ai_model:get_nutrition_info:62 - Searching USDA for: chocolate
+2025-05-23 16:50:30.136 | INFO     | src.ai_model:get_nutrition_info:79 - Fetching detailed nutrition info for FDC ID: 2678517 (chocolate)
+2025-05-23 16:50:31.421 | INFO     | src.ai_model:get_nutrition_info:98 - Successfully fetched and formatted nutrition data for chocolate
+2025-05-23 16:51:00.253 | INFO     | src.ai_model:get_nutrition_info:62 - Searching USDA for: 100g chocolate
+2025-05-23 16:51:03.507 | INFO     | src.ai_model:get_nutrition_info:79 - Fetching detailed nutrition info for FDC ID: 2708068 (100g chocolate)
+2025-05-23 16:51:04.982 | INFO     | src.ai_model:get_nutrition_info:98 - Successfully fetched and formatted nutrition data for 100g chocolate
+2025-05-23 16:51:17.288 | INFO     | src.ai_model:get_nutrition_info:62 - Searching USDA for: 100g chocolate
+2025-05-23 16:51:19.492 | INFO     | src.ai_model:get_nutrition_info:79 - Fetching detailed nutrition info for FDC ID: 2708068 (100g chocolate)
+2025-05-23 16:51:20.821 | INFO     | src.ai_model:get_nutrition_info:98 - Successfully fetched and formatted nutrition data for 100g chocolate
+2025-05-23 17:03:24.204 | INFO     | src.ai_model:get_nutrition_info:62 - Searching USDA for: 100g chocolate
+2025-05-23 17:03:27.364 | INFO     | src.ai_model:get_nutrition_info:79 - Fetching detailed nutrition info for FDC ID: 2708068 (100g chocolate)
+2025-05-23 17:03:28.633 | INFO     | src.ai_model:get_nutrition_info:98 - Successfully fetched and formatted nutrition data for 100g chocolate
+2025-05-23 17:03:59.998 | INFO     | src.ai_model:get_nutrition_info:62 - Searching USDA for: cup of coffee
+2025-05-23 17:04:02.382 | INFO     | src.ai_model:get_nutrition_info:79 - Fetching detailed nutrition info for FDC ID: 2710375 (cup of coffee)
+2025-05-23 17:04:03.753 | INFO     | src.ai_model:get_nutrition_info:98 - Successfully fetched and formatted nutrition data for cup of coffee
+2025-05-23 17:04:30.697 | INFO     | src.ai_model:get_nutrition_info:62 - Searching USDA for: cup of rice
+2025-05-23 17:04:34.047 | INFO     | src.ai_model:get_nutrition_info:79 - Fetching detailed nutrition info for FDC ID: 2709078 (cup of rice)
+2025-05-23 17:04:36.742 | INFO     | src.ai_model:get_nutrition_info:98 - Successfully fetched and formatted nutrition data for cup of rice
+2025-05-24 15:56:01.352 | INFO     | src.ai_model:query_nutrition_knowledge:26 - Querying Ollama for question: Which fruits are rich in potassium
+2025-05-24 15:56:03.432 | ERROR    | src.ai_model:query_nutrition_knowledge:37 - Ollama request error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2025-05-24 15:56:27.393 | INFO     | src.ai_model:get_nutrition_info:53 - Searching USDA for: 3 eggs
+2025-05-24 15:56:30.364 | INFO     | src.ai_model:get_nutrition_info:70 - Fetching detailed nutrition info for FDC ID: 747997 (3 eggs)
+2025-05-24 15:56:38.004 | INFO     | src.ai_model:get_nutrition_info:89 - Successfully fetched and formatted nutrition data for 3 eggs
+2025-05-24 15:57:14.188 | INFO     | src.ai_model:query_nutrition_knowledge:26 - Querying Ollama for question: Which fruits are rich in potassium
+2025-05-24 15:57:16.226 | ERROR    | src.ai_model:query_nutrition_knowledge:37 - Ollama request error: 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2025-05-24 16:02:44.946 | INFO     | src.ai_model:query_nutrition_knowledge:27 - Querying Ollama for question:  Which fruits are rich in potassium
+2025-05-24 16:04:22.556 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 3 eggs
+2025-05-24 16:04:25.597 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 747997 (3 eggs)
+2025-05-24 16:04:34.065 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 3 eggs
+2025-05-24 16:04:40.625 | INFO     | src.ai_model:query_nutrition_knowledge:27 - Querying Ollama for question:  Which fruits are rich in potassium
+2025-05-24 16:06:08.142 | INFO     | src.ai_model:query_nutrition_knowledge:27 - Querying Ollama for question:  Which fruits are rich in potassium
+2025-05-24 16:07:36.763 | INFO     | src.ai_model:query_nutrition_knowledge:27 - Querying Ollama for question: apple
+2025-05-24 16:08:52.259 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 3 eggs
+2025-05-24 16:08:55.283 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 747997 (3 eggs)
+2025-05-24 16:09:03.581 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 3 eggs
+2025-05-24 16:10:46.356 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 3 eggs
+2025-05-24 16:10:49.388 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 747997 (3 eggs)
+2025-05-24 16:10:57.300 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 3 eggs
+2025-05-24 16:11:39.813 | INFO     | src.ai_model:query_nutrition_knowledge:27 - Querying Ollama for question: eggs recipe
+2025-05-24 16:20:16.607 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: oats
+2025-05-24 16:20:19.694 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2020713 (oats)
+2025-05-24 16:20:21.446 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for oats
+2025-05-24 16:22:58.979 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: oats
+2025-05-24 16:23:01.627 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2020713 (oats)
+2025-05-24 16:23:04.404 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for oats
+2025-05-24 16:23:46.638 | INFO     | src.ai_model:query_nutrition_knowledge:27 - Querying Ollama for question: eggs recipe
+2025-05-24 16:26:20.391 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: oats
+2025-05-24 16:26:23.562 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2020713 (oats)
+2025-05-24 16:26:25.311 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for oats
+2025-05-24 16:27:37.601 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: eggs
+2025-05-24 16:27:40.224 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 577532 (eggs)
+2025-05-24 16:27:41.977 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for eggs
+2025-05-24 16:34:47.558 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: eggs
+2025-05-24 16:34:50.550 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 577532 (eggs)
+2025-05-24 16:34:52.266 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for eggs
+2025-05-24 16:35:12.672 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: eggs
+2025-05-24 16:35:15.487 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 577532 (eggs)
+2025-05-24 16:35:17.189 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for eggs
+2025-05-24 16:38:00.779 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 1 banana
+2025-05-24 16:38:03.185 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2709365 (1 banana)
+2025-05-24 16:38:04.912 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 1 banana
+2025-05-24 16:38:35.834 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 1 banana
+2025-05-24 16:38:38.338 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2709365 (1 banana)
+2025-05-24 16:38:40.036 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 1 banana
+2025-05-24 16:40:14.247 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 1 banana
+2025-05-24 16:40:17.104 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2709365 (1 banana)
+2025-05-24 16:40:18.784 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 1 banana
+2025-05-24 16:43:35.523 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 1 banana
+2025-05-24 16:43:38.011 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2709365 (1 banana)
+2025-05-24 16:43:39.770 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 1 banana
+2025-05-24 16:48:38.124 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 3 eggs
+2025-05-24 16:48:41.453 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 747997 (3 eggs)
+2025-05-24 16:48:48.775 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 3 eggs
+2025-05-24 16:49:48.626 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: eggs
+2025-05-24 16:49:51.138 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 577532 (eggs)
+2025-05-24 16:49:52.849 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for eggs
+2025-05-24 16:51:22.833 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: eggs
+2025-05-24 16:51:25.343 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 577532 (eggs)
+2025-05-24 16:51:27.109 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for eggs
+2025-05-24 16:52:31.214 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: 4 eggs
+2025-05-24 16:52:33.701 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 747997 (4 eggs)
+2025-05-24 16:52:41.435 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for 4 eggs
+2025-05-24 16:55:41.793 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: eggs
+2025-05-24 16:55:44.674 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 577532 (eggs)
+2025-05-24 16:55:46.357 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for eggs
+2025-05-24 16:59:25.864 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: palak
+2025-05-24 16:59:27.898 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2709631 (palak)
+2025-05-24 16:59:29.581 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for palak
+2025-05-24 17:01:50.736 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: palak
+2025-05-24 17:01:53.263 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2709631 (palak)
+2025-05-24 17:01:55.014 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for palak
+2025-05-24 17:03:35.379 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: oats
+2025-05-24 17:03:41.631 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2020713 (oats)
+2025-05-24 17:03:43.374 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for oats
+2025-05-24 17:05:51.921 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: banana
+2025-05-24 17:05:54.492 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2012128 (banana)
+2025-05-24 17:05:56.229 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for banana
+2025-05-24 17:07:54.877 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: banana
+2025-05-24 17:07:57.763 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2012128 (banana)
+2025-05-24 17:07:59.650 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for banana
+2025-05-24 17:17:18.006 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: banana
+2025-05-24 17:17:20.892 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2012128 (banana)
+2025-05-24 17:17:22.617 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for banana
+2025-05-24 17:44:28.692 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: egg recipe
+2025-05-24 17:44:31.701 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 169595 (egg recipe)
+2025-05-24 17:44:33.546 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for egg recipe
+2025-05-24 17:44:41.077 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: egg recipe
+2025-05-24 17:44:43.807 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 169595 (egg recipe)
+2025-05-24 17:44:45.598 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for egg recipe
+2025-05-24 17:57:00.573 | INFO     | src.ai_model:get_nutrition_info:54 - Searching USDA for: banana
+2025-05-24 17:57:03.534 | INFO     | src.ai_model:get_nutrition_info:71 - Fetching detailed nutrition info for FDC ID: 2012128 (banana)
+2025-05-24 17:57:05.306 | INFO     | src.ai_model:get_nutrition_info:90 - Successfully fetched and formatted nutrition data for banana
